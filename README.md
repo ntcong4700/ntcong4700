@@ -1,6 +1,4 @@
-![Header Image](https://source.unsplash.com/1600x400/?technology,coding)
-
-# 👋 Hi, I'm Le Gia Linh!  
+# 👋 Hi, I'm Nguyen Thanh Cong!  
 🚀 **Aspiring Software Developer | IT Student**  
 💻 **Skills:** Python, C++, FastAPI, SQL  
 🎓 **Currently studying IT & exploring new technologies**  
