@@ -1,16 +1,30 @@
-## Hi there 👋
+![Header Image](https://source.unsplash.com/1600x400/?technology,coding)
 
-<!--
-**ntcong4700/ntcong4700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Le Gia Linh!  
+🚀 **Aspiring Software Developer | IT Student**  
+💻 **Skills:** Python, C++, FastAPI, SQL  
+🎓 **Currently studying IT & exploring new technologies**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=le-gia-linh&show_icons=true&theme=radical)
+
+## 🏆 Top Projects
+🔹 [**Project 1**](https://github.com/yourusername/project1) - Brief description of what it does.  
+🔹 [**Project 2**](https://github.com/yourusername/project2) - Another project description.  
+🔹 [**Project 3**](https://github.com/yourusername/project3) - Yet another cool project.  
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+
+⭐ **Feel free to check out my repositories and contribute!** ⭐
